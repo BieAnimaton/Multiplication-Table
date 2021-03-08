@@ -18,5 +18,5 @@ git clone https://github.com/BieAnimaton/Multiplication-Table
 # The project will open
 ```
 
-## Features :hammer_and_Wrench:
+## Features :hammer_and_wrench:
 - C language
